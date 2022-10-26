@@ -1,0 +1,39 @@
+.Contact {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+.email, .email1, button {
+  line-height: 20px;
+  color: #a79789;
+  top: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  font-size: 30px;
+}
+
+button, .btn {
+  position: relative;
+  left: 43%;
+  background: transparent;
+  color: #7f6d5e;
+  padding: 3px;
+  font-size: 20px;
+  border: 2px solid #baada2;
+}
+
+button:hover {
+  cursor: pointer;
+  border: 2px solid #7f6d5e;
+}
+
+.btn {
+}
