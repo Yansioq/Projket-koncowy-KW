@@ -1,2 +1,2 @@
 # Your Beauty
-Strona, na którą można dodawać posty. 
+Page where you can add posts
