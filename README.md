@@ -1,2 +1,2 @@
-# Projket-koncowy-KW
+# Your Beauty
 Strona, na którą można dodawać posty. 
